@@ -1,0 +1,46 @@
+Name: Paula Carvajal
+Title: Senior Full-Stack Software Engineer
+Location: New York, NY
+GitHub: github.com/paulacarvajal
+Years of experience: 9+
+
+Summary:
+- Senior full-stack software engineer with 9+ years of experience developing web applications, backend services, and cloud-hosted systems.
+- Builds across React/TypeScript frontends and Java/Spring Boot, Node.js, and Python backends, with a focus on maintainable architecture, API design, database performance, application reliability, and automated delivery.
+- Experienced collaborating across product and engineering teams to deliver features from implementation through release and support.
+
+Skills:
+- Languages: JavaScript, TypeScript, Java, Python, Ruby, SQL
+- Frontend: React, Next.js, Angular, Redux, Zustand, HTML5, CSS3, Tailwind CSS, Bootstrap, responsive UI
+- Backend & API: Node.js, Express, Spring Boot, Ruby on Rails, FastAPI, Flask, Django, REST APIs, microservices, GraphQL, validation and error handling
+- Data & Messaging: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kafka, Apache Spark, schema design, query optimization, caching
+- Cloud & Delivery: AWS, S3, Lambda, Docker, Kubernetes, Jenkins, CI/CD, Git, Linux, monitoring and logging
+- Quality & Collaboration: Unit and integration testing, code reviews, Agile/Scrum, technical documentation, debugging, production support
+
+Experience:
+- Aptask Agency / Lumen Technologies, Senior Full-Stack Developer, Nov 2025 - Present
+  - Develop and maintain full-stack application features using React, Next.js, TypeScript, Java/Spring Boot, Python, and REST APIs.
+  - Translate product requirements into maintainable frontend components, backend services, and API integrations.
+  - Improve application responsiveness and service reliability through query tuning, caching, reusable components, and disciplined error handling.
+  - Contribute to technical design discussions, code reviews, automated testing, CI/CD practices, and production issue resolution.
+  - Coordinate with product and engineering partners to deliver changes from implementation through release and post-release support.
+
+- Integrated Resources Inc. / Pfizer, Full-Stack Developer, Jan 2024 - Nov 2025
+  - Developed enterprise web applications and backend services using JavaScript/TypeScript, Node.js, Express, Python, REST APIs, PostgreSQL, and MongoDB.
+  - Integrated backend endpoints with responsive React and Angular interfaces, implementing input validation, authentication-aware flows, and consistent error handling.
+  - Improved data access and application responsiveness by refining SQL queries and caching strategies.
+  - Supported application quality through debugging, testing, release coordination, documentation, and collaboration with cross-functional teams.
+
+- Upwork & Contract Projects, Freelance Software Engineer, Dec 2022 - Jan 2024
+  - Delivered web applications, client portals, e-commerce features, and SaaS functionality using React, Angular, Node.js, Python, Ruby, and Java.
+  - Built API-driven services, reusable UI components, authentication and validation flows, and database-backed workflows.
+  - Reduced data retrieval time by approximately 50% on one project through caching and SQL query tuning.
+  - Managed project delivery across requirements clarification, implementation, testing, deployment support, client feedback, and documentation.
+
+- Freelance Projects, Junior Web Developer, Mar 2017 - Dec 2022
+  - Built responsive websites and application features using HTML, CSS, JavaScript, Bootstrap, AJAX, and Ruby-backed services.
+  - Implemented form validation, API integrations, backend logic, and database-driven pages.
+  - Maintained existing applications, resolved defects, used Git for version control, and improved usability and cross-browser behavior.
+
+Education:
+- Bachelor's Degree, University of Louisville, 2012 - 2016
