@@ -1,0 +1,79 @@
+provider: ollama
+mode: ocr
+auto_send: true
+interviewer: auto
+answer_type: auto
+
+coding:
+  language: Python
+  max_tokens: 1500
+
+ollama:
+  host: http://localhost:11434
+  model: qwen3:8b
+  vision_model: qwen2.5vl:7b
+  timeout: 300
+
+claude:
+  model: claude-haiku-5-5
+  api_key_env: ANTHROPIC_API_KEY
+  api_key_file: anthropic_key.txt
+  max_tokens: 400
+
+profile_file: profile.txt
+
+hotkeys:
+  capture: f8
+  region: f9
+  clear_region: shift+f9
+  toggle_audio: f10
+
+capture:
+  region: null
+  monitor: all
+  frames: 3
+  frame_interval: 0.4
+  window_keywords:
+    - anydesk
+    - rustdesk
+    - .mp4
+    - .mkv
+    - .avi
+    - .mov
+    - vlc
+    - media player
+    - movies & tv
+    - zoom
+    - google meet
+    - meet -
+    - teams
+  hide_window_during_capture: true
+
+ocr:
+  engine: tesseract
+  tesseract_cmd: C:\Program Files\Tesseract-OCR\tesseract.exe
+  lang: eng
+  psm: 6
+  oem: 3
+  max_variants: 3
+  full_screen_variants: 1
+
+debug:
+  save_images: true
+
+ui:
+  width: 560
+  height: 700
+  opacity: 0.95
+  font_size: 11
+
+history:
+  enabled: true
+  file: history.jsonl
+
+audio:
+  enabled: false
+  device: null
+  chunk_seconds: 6
+  model_size: base.en
+  silence_threshold: 0.01

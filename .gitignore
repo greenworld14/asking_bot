@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+debug_capture.png
+debug_ocr.png
+history.jsonl
+region.json
+profile.txt
+anthropic_key.txt
+.env
+tests/samples/
